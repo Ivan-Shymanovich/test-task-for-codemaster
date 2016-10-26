@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "root",
+    "folders": [
+      {
+        "id": 2,
+        "name": "folder1",
+        "folders": [
+          {
+            "id": 5,
+            "name": "childFolder1"
+          },
+          {
+            "id": 6,
+            "name": "childFolder2"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "folder2"
+      },
+      {
+        "id": 4,
+        "name": "folder3"
+      }
+    ]
+}]
